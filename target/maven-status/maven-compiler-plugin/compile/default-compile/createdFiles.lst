@@ -1,0 +1,6 @@
+mx\com\midominio\data\PersonaDaoImple.class
+mx\com\midominio\domain\Persona.class
+mx\com\midominio\data\IPersonaDao.class
+mx\com\midominio\service\PersonaServiceRS.class
+mx\com\midominio\web\JAXRSActivator.class
+mx\com\midominio\web\CorsFilter.class
