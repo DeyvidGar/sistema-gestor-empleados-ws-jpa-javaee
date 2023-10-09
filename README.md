@@ -1,7 +1,7 @@
 # sistema-gestor-empleados-ws-jpa-javaee
-Backend de Sistema gestor de empleados, Web service de empleados utilizando JavaEE con Java 8, Java Persistence Api como motor de persistencia en la base de datos.
+Backend de sistema gestor de empleados. Web service de empleados utilizando JavaEE con Java 8, Java Persistence Api como motor de persistencia en la base de datos.
 ## funcion:
-Estos servicios web Crean, Consultan, Actualizan y Elimiana informacion de la base de datos, mediante la arquitectura ApiRest se establecieron los siguientes endpoints:
+Estos servicios web Crean, Consultan, Actualizan y Elimiana informacion de la base de datos, estos servicios están diseñados siguiendo los principios de la arquitectura REST (Representational State Transfer) y se implementan en Java, se establecieron los siguientes endpoints:
 #### Consultar 
 * Url: http://localhost:8080/personas
 * Method: GET
